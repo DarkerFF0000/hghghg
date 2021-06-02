@@ -1,0 +1,31 @@
+<ItemPools>
+	<Pool Name="treasure"/>
+	<Pool Name="shop"/>
+	<Pool Name="boss"/>
+	<Pool Name="devil"/>
+	<Pool Name="angel">
+		<!--cc-->
+		<Item Id="530" Weight="2" DecreaseBy="1" RemoveOn="0.6"/>
+	</Pool>
+	<Pool Name="secret"/>
+	<Pool Name="library"/>
+	<Pool Name="challenge"/>
+	<Pool Name="goldenChest"/>
+	<Pool Name="redChest"/>
+	<Pool Name="beggar"/>
+	<Pool Name="demonBeggar"/>
+	<Pool Name="curse"/>
+	<Pool Name="keyMaster"/>
+	<Pool Name="bossrush"/>
+	<Pool Name="dungeon"/>
+	<Pool Name="greedTreasure"/>
+	<Pool Name="greedBoss"/>
+	<Pool Name="greedShop"/>
+	<Pool Name="greedCurse"/>
+	<Pool Name="greedDevil"/>
+	<Pool Name="greedAngel"/>
+	<Pool Name="greedLibrary"/>
+	<Pool Name="greedSecret"/>
+	<Pool Name="greedGoldenChest"/>
+	<Pool Name="bombBum"/>
+</ItemPools>
